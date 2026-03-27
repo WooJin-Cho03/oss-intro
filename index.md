@@ -8,8 +8,8 @@
 
 |     세부전공       |         진로        |
 |  :--------------: | ----------------:    |
-|    Data science   |        '데이터분석가' |
-| Visual Technology | '개발자', 'ux분석가'  |
+|    Data science   |        `데이터분석가` |
+| Visual Technology | `개발자`, `ux분석가`  |
 
 ## 좋아하는 인용구
 
